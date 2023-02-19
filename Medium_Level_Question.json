@@ -1,0 +1,82 @@
+{
+    "1": {
+        "Question": "Which module in the python standard library parses options received from the command line?",
+        "A": " getarg",
+        "B": "getopt",
+        "C": "main",
+        "D": "os",
+        "Correct Option": "2"
+    },
+    "2": {
+        "Question": "print(\"abc. DEF\".capitalize())",
+        "A": "print(\"abc. DEF\".capitalize())",
+        "B": "Abc. def",
+        "C": "ABC. DEF",
+        "D": "Abc . Def",
+        "Correct Option": "2"
+    },
+    "3": {
+        "Question": " Which of the following statements is used to create an empty set in Python?",
+        "A": "()",
+        "B": "[]",
+        "C": "{}",
+        "D": "set()",
+        "Correct Option": "4"
+    },
+    "4": {
+        "Question": "To add a new element to a list we use which Python command?",
+        "A": "list1.addEnd(5)",
+        "B": "list1.addlast(5)",
+        "C": "list.append(5)",
+        "D": "list.add(10)",
+        "Correct Option": "3"
+    },
+    "5": {
+        "Question": "z=set('abc$de') 'a' in z",
+        "A": "true",
+        "B": "false",
+        "C": "Both Can be consider",
+        "D": "None",
+        "Correct Option": "1"
+    },
+    "6": {
+        "Question": "What is the maximum possible length of an identifier in Python?",
+        "A": "79 characters",
+        "B": "31 characters",
+        "C": "32 chararcters",
+        "D": "None of these Mentioned",
+        "Correct Option": "4"
+    },
+    "7": {
+        "Question": ". What are the two main types of functions in Python?",
+        "A": "System function",
+        "B": "System function",
+        "C": "Built-in function & User defined function",
+        "D": "User Define Function",
+        "Correct Option": "3"
+    },
+    "8": {
+        "Question": "Which of the following is a Python tuple?",
+        "A": "{1,2,3,4}",
+        "B": "[1,2,3,4]",
+        "C": "(1,2,3,4)",
+        "D": "{}",
+        "Correct Option": "3"
+    },
+    "9": {
+        "Question": " What is output of print(math.pow(3, 2))?",
+        "A": "9.0",
+        "B": "9",
+        "C": "Both of these",
+        "D": "None of them",
+        "Correct Option": "1"
+    },
+    "10": {
+        "Question": " Which of the following is the use of id() function in python?",
+        "A": "Every object in Python doesn\\u2019t have a unique ID",
+        "B": "In Python Id function returns the identity of the object",
+        "C": "None of mentioned",
+        "D": "All of Above",
+        "Correct Option": "2"
+    }
+}
