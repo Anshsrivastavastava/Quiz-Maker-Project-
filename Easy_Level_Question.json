@@ -1,0 +1,82 @@
+{
+    "1": {
+        "Question": "Who developed Python Programing Laguage ?",
+        "A": "Wack Van Rossom",
+        "B": "Rasmus Lerdorf",
+        "C": "Guido Van Rossum",
+        "D": "Niene Stom",
+        "Correct Option": "2"
+    },
+    "2": {
+        "Question": "Which Type of Language does Python Support ?",
+        "A": "Object Oriented Programing ",
+        "B": "Structured Programing",
+        "C": "functional Programing",
+        "D": "All of the Mentioned",
+        "Correct Option": "4"
+    },
+    "3": {
+        "Question": "Which of the following is the correct extension of the Python file ?",
+        "A": ".python",
+        "B": ".pl",
+        "C": ".py",
+        "D": ".p",
+        "Correct Option": "3"
+    },
+    "4": {
+        "Question": "All Keyword are Python in ________________?",
+        "A": "Lower Case",
+        "B": "Upper Case",
+        "C": "Capitalized ",
+        "D": "None of the mentioned",
+        "Correct Option": "4"
+    },
+    "5": {
+        "Question": "Which is Used to define a block of code in Python Laguage ?",
+        "A": "Indentation",
+        "B": "Key",
+        "C": "Brackets",
+        "D": "All of the Mentioned",
+        "Correct Option": "1"
+    },
+    "6": {
+        "Question": "Whihch Key Word is used for function declare in Python ?",
+        "A": "Function ",
+        "B": "defin",
+        "C": "def",
+        "D": "Fun",
+        "Correct Option": "3"
+    },
+    "7": {
+        "Question": "Which of the Following will be used for Comenting in Python ?",
+        "A": "\\\\",
+        "B": "?",
+        "C": "#",
+        "D": "",
+        "Correct Option": "3"
+    },
+    "8": {
+        "Question": "Python Support the creation of anonymous function at runtime, using a construct called ?",
+        "A": "pi",
+        "B": "anonymous",
+        "C": "lambda",
+        "D": "none of the mentionned",
+        "Correct Option": "3"
+    },
+    "9": {
+        "Question": "Which of the following is division operator in Python ?",
+        "A": "|",
+        "B": "\\\\",
+        "C": "//",
+        "D": "\\",
+        "Correct Option": "3"
+    },
+    "10": {
+        "Question": "Which of the Following is Builting Function in Python ?",
+        "A": "fact",
+        "B": "print",
+        "C": "speed",
+        "D": "sqrt",
+        "Correct Option": "2"
+    }
+}

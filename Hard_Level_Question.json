@@ -1,0 +1,82 @@
+{
+    "1": {
+        "Question": "The input() function takes user input as a ? ",
+        "A": "str",
+        "B": "int",
+        "C": "float",
+        "D": "tuple",
+        "Correct Option": "1"
+    },
+    "2": {
+        "Question": "Which of the following results in True?",
+        "A": "1!=1 and 1==1",
+        "B": "9==1 and 9!=1",
+        "C": "9==9 and 1==1",
+        "D": "None of these",
+        "Correct Option": "3"
+    },
+    "3": {
+        "Question": "The symbol used for commenting ?",
+        "A": "#",
+        "B": "\"\"\" \"\"\"",
+        "C": "None of these",
+        "D": "Both 1 & 2",
+        "Correct Option": "1"
+    },
+    "4": {
+        "Question": "Multiple inheritance is when a class inherits minimum _______. ?",
+        "A": "One Class",
+        "B": "Three Class",
+        "C": "Two Class",
+        "D": "Four Class",
+        "Correct Option": "3"
+    },
+    "5": {
+        "Question": "Multiple Inheritance is supported in _________ language. ?",
+        "A": "c",
+        "B": "c++",
+        "C": "Java",
+        "D": "Python",
+        "Correct Option": "4"
+    },
+    "6": {
+        "Question": "Which problem arises due to multiple inheritance ?",
+        "A": "Diamond",
+        "B": "Square",
+        "C": "Trangle",
+        "D": "Circle",
+        "Correct Option": "1"
+    },
+    "7": {
+        "Question": " In Python, +, -, and, / are called ____.?",
+        "A": "Operator",
+        "B": " Operands",
+        "C": "None",
+        "D": "Both",
+        "Correct Option": "1"
+    },
+    "8": {
+        "Question": "What method is invoked by the addition operator ?",
+        "A": "__mul__",
+        "B": "__it__",
+        "C": "__sub__",
+        "D": "__add__",
+        "Correct Option": "4"
+    },
+    "9": {
+        "Question": "Which of the following is not correct about the Serialization ?",
+        "A": " We can use the JSON module to do serialization",
+        "B": "None",
+        "C": " It converts the data into human readable form using Pickler",
+        "D": " The process is also called flattening",
+        "Correct Option": "3"
+    },
+    "10": {
+        "Question": "Which of the following is the correct way to serialize the data into a file ?",
+        "A": " pickle.dump(content,file_name)",
+        "B": " pickle.dumps(content,file_name)",
+        "C": " pickle.dump(file_name,content)",
+        "D": "pickle.dumps(file_name,content)",
+        "Correct Option": "1"
+    }
+}

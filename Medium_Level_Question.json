@@ -1,0 +1,82 @@
+{
+    "1": {
+        "Question": "Constructors ____ an object. ",
+        "A": "Class",
+        "B": "Create",
+        "C": "Instantiate",
+        "D": "Delete",
+        "Correct Option": "3"
+    },
+    "2": {
+        "Question": " How many parameters do non-parameterized constructors contain ?",
+        "A": "1",
+        "B": "2",
+        "C": "0",
+        "D": "None of these",
+        "Correct Option": "1"
+    },
+    "3": {
+        "Question": " What default parameter does a constructor contain?",
+        "A": "cls",
+        "B": "self",
+        "C": "None",
+        "D": "Both 1 & 2",
+        "Correct Option": "2"
+    },
+    "4": {
+        "Question": "Which of the following is not true about function arguments? ?",
+        "A": "A function in Python can have any number of arguments",
+        "B": " A function can be defined without any argument",
+        "C": "All the arguments must be passed while calling the function",
+        "D": "All of Above",
+        "Correct Option": "3"
+    },
+    "5": {
+        "Question": "Multiple Inheritance is supported in _________ language. ?",
+        "A": "c",
+        "B": "c++",
+        "C": "Java",
+        "D": "Python",
+        "Correct Option": "4"
+    },
+    "6": {
+        "Question": "Which of the following does the for loop iterate on ?",
+        "A": "Iterable",
+        "B": "Condition",
+        "C": "Both A & B",
+        "D": "None",
+        "Correct Option": "1"
+    },
+    "7": {
+        "Question": " Which of the following is not a control statement in loops?",
+        "A": "None",
+        "B": "break",
+        "C": "continue",
+        "D": "end",
+        "Correct Option": "4"
+    },
+    "8": {
+        "Question": "What is the output of the following code?\n,list(range(-3,9,3))",
+        "A": " [0, 3, 6]",
+        "B": "[-3,0,3,6]",
+        "C": "[]",
+        "D": "[-3,0,3,6,9]",
+        "Correct Option": "2"
+    },
+    "9": {
+        "Question": "What is the function of the continue statement ?",
+        "A": "The code below the continue statements gets executed and the loop stops iterating ?",
+        "B": "None",
+        "C": "The code below the statement skips and the iteration stops",
+        "D": "  The code below the statement skips for that iteration",
+        "Correct Option": "4"
+    },
+    "10": {
+        "Question": "Which of the following is not true about the while loop ?",
+        "A": "It encloses its block of code with parentheses",
+        "B": " It can go to infinite iterations",
+        "C": "  It works based on the condition",
+        "D": "All of Above",
+        "Correct Option": "1"
+    }
+}
