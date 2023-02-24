@@ -22,7 +22,7 @@ while True:
 
     if choise =="1":
         demo1.Play_Question()
-        break
+        
     
     if choise =="2":
         email = input("Enter Your Mail Here :")
